@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-google-autocomplete",
+  "version": "1.0.",
+  "description": "React component use google autocomplete",
+  "main": "placesAutocomplete.js",
+  "keywords": [
+    "google",
+    "autocomplete",
+    "google autocomplete",
+    "react",
+    "reactjs"
+  ],
+  "url" : "https://github.com/null-none/reactjs-google-autocomplete",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
